@@ -1,0 +1,32 @@
+{
+  "name": "donate_a_ride",
+  "version": "1.0.0",
+  "description": "senior community freeride",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonaH/donate_a_ride.git"
+  },
+  "keywords": [
+    "donate",
+    "freeride",
+    "senior",
+    "community"
+  ],
+  "author": "DonaH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonaH/donate_a_ride/issues"
+  },
+  "homepage": "https://github.com/DonaH/donate_a_ride#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.15",
+    "morgan": "^1.7.0"
+  }
+}
