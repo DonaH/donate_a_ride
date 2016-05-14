@@ -1,0 +1,11 @@
+* {
+  font-family: 'Orbitron', Verdana, Arial, sans-serif;
+}
+
+#base_plate{
+  background-color: rgba(209, 105, 250, 1)
+}
+
+#seniors{
+  background-image: url('../img/drivers.jpg');
+}
